@@ -1,1 +1,11 @@
-[ { "fname": "Dhoop", "lname": "Soni" }, { "fname": "Prashant", "lname": "Tomar" } ]
+[ { "fname": "Dhoop", "lname": "Soni" },
+  { "fname": "Prashant", "lname": "Tomar" },
+  { "fname": "Bineet", "lname": "Singh" },
+  { "fname": "Sahil", "lname": "khan" },
+  { "fname": "Sarthak", "lname": "Shah" },
+  { "fname": "Harsh", "lname": "Dave" },
+  { "fname": "Tanvi", "lname": "Thaker" },
+  { "fname": "Kajal", "lname": "Sharma" },
+  { "fname": "Abhishek", "lname": "Shah" },
+  { "fname": "Himal", "lname": "Shah" }
+]
